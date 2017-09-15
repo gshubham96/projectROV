@@ -2,8 +2,10 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [Introduction](README.md)
 
-## Methods
+## Literature
 
-* [Defining Methods](methods.md)
+* [Some Questions?](global-mission-partners-india.md)
+* Questions by Stewart
+
