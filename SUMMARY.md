@@ -6,6 +6,6 @@
 
 ## Literature
 
-* [Some Questions?](global-mission-partners-india.md)
-* Questions by Stewart
+* [An Indian Viewpoint ](global-mission-partners-india.md)
+* [Questions by Stewart Butterfield](questions-by-stewart.md)
 
