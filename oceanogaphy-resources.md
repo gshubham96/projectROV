@@ -1,6 +1,6 @@
 # Oceanography Resources
 
-A Non-Exhaustive list of open-source facilities? avaible for citizen science and hobbyists
+A Non-Exhaustive list of open-source resources avaible for citizen scientists and hobbyists
 
 1. [**ArduSUB**](https://www.ardusub.com): The ArduSub project is a fully-featured open-source solution for remotely operated underwater vehicles \(ROVs\) and autonomous underwater vehicles \(AUVs\). ArduSub is a part of the ArduPilot project, and was originally derived from the ArduCopter code. ArduSub has extensive capabilities out of the box including feedback stability control, depth and heading hold, and autonomous navigation. ArduSub is designed to be safe, feature-rich, open-ended, and easy to use even for novice users.
 2. [**openROV**](https://www.openrov.com/): The ArduSub project is a fully-featured open-source solution for remotely operated underwater vehicles \(ROVs\) and autonomous underwater vehicles \(AUVs\). ArduSub is a part of the ArduPilot project, and was originally derived from the ArduCopter code. ArduSub has extensive capabilities out of the box including feedback stability control, depth and heading hold, and autonomous navigation. ArduSub is designed to be safe, feature-rich, open-ended, and easy to use even for novice users.
@@ -12,8 +12,6 @@ A Non-Exhaustive list of open-source facilities? avaible for citizen science and
    3. **BeagleBox:** BeagleBox is a dirt-cheap, tough-as-nails, no-frills field computer. 
 6. [**MOOS-IvP**](http://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php): MOOS-IvP is a set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 7. [**Homebuilt ROVs**](http://www.homebuiltrovs.com/): This Web Site is Dedicated to the Homebuilt Remote Operated Vehicles. This sites main purpose is to share ideas and to help other people who would like to build their own Rov.
-
-
 
 
 
