@@ -2,5 +2,3 @@
 
 ![](/High Level Architecture.jpg)
 
-
-
