@@ -20,7 +20,7 @@ ProjectROV is an initiative to design an open source semi-professional grade ROV
    2. discussion of ideas related to and troubleshoot issues of the myROV platform
    3. sharing community gathered data through myROV platform
 gra
-## Project Idealogy
+## Project Ideology
 
 The Ideology behind this project is to have a vehicle that is freely and easily available so that anyone can make one and start exploring the oceans. Among the few ROVs that exist for the general public, only handful of them utilize open-source components and hence accessibility to the public remains low. I aim to design an ROV that would be completely open source and made from commercially available off-the-shelf components. This would allow anyone anywhere in the world with access to basic technical skills and tools to build an ROV for ocean exploration.
 
