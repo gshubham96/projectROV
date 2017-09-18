@@ -3,9 +3,9 @@
 I stumbled across an article by Harish Venkatesan, where he\(?\) lists some questions one should ask themselves before going out there and selling a product. Even though we are not developing a product to be sold on a market here, I feel it is important to ask ourselves these questions and see how ProjectROV would perform as a product.
 
 1. **By consuming your product what will your customer become?**
-   Rise to an educated, well-informed consumer who is sensitive to the needs of the oceans and sees the potential in the sustainable development of Ocean Technologies.
+   Rise to an educated, well-informed consumer who is sensitive to the needs of the oceans and sees the potential in the sustainable          development of Ocean Technologies.
 2. **What is the human value your customers derive from your product?**  
-   Opening a whole new world helps derive satisfaction and give meaning to life. Social activity and gets the community as a whole to come together, interact and grow as a whole.
+   Opening a whole new world helps derive satisfaction and give meaning to life. Social activity and gets the community as a whole to come    together, interact and grow as a whole.
 
 3. **What do you ask your customers to do?**
    i. Basic know-how of electronics and computers 
