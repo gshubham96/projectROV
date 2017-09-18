@@ -14,7 +14,7 @@ ProjectROV is an initiative to design an open source semi-professional grade ROV
 1. To design and develop
    1. An open-sourced freely available underwater platform accessible to general public regardless of thei geo-physical location age, knowledge skill-set and \_\_\_\_\_\_\_[^2].
    2. or extend software package to accomodate hardware solutions and provide custom payload integration capabilities
-2. To build and sell packaged ROV kits for use in education & research, photography, recreation, small-scale surveys and use in Boat & Yatch industry.
+2. To build ROV kits for use in education & research, photography, recreation, small-scale surveys and use in Boat & Yatch industry.
 3. To provide a digital platform for
    1. interactive build guide for myROV platform
    2. discussion of ideas related to and troubleshoot issues of the myROV platform
@@ -23,14 +23,6 @@ ProjectROV is an initiative to design an open source semi-professional grade ROV
 ## Project Idealogy
 
 The Ideaology behind this project is to have a vehicle that is freely and easily available so that anyone can make one and start exploring the oceans. Among the few ROVs that exist for the general public, only handful of them utilize open-source components and hence accessibility to the public remains low. I aim to design a ROV that would be completely open source and made from commercially avaible off-the shelf components. This would allow anyone anywhere in the world with access to basic technological skills and tools to buld an ROV for ocean exploration.
-
-
-
- 
-
-
-
-
 
 [^1]: All information/text presented here is based on my opinion as on September 2017 and does not necessarily represent any factual information. If you find something to be incorrect or misleading, kindly drop an email @ shubhamuuv@gmail.com.
 
