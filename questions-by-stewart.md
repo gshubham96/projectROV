@@ -4,6 +4,7 @@ I stumbled across an article by Harish Venkatesan, where he\(?\) lists some ques
 
 1. **By consuming your product what will your customer become?**
    Rise to an educated, well-informed consumer who is sensitive to the needs of the oceans and sees the potential in the sustainable          development of Ocean Technologies.
+   
 2. **What is the human value your customers derive from your product?**  
    Opening a whole new world helps derive satisfaction and give meaning to life. Social activity and gets the community as a whole to come    together, interact and grow as a whole.
 
