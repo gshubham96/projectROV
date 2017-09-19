@@ -6,7 +6,7 @@ ProjectROV is an initiative to design an open source semi-professional grade ROV
 
 1. Implement and improve OS software systems when available, develop custom OS solutions where necessary
 2. Maximize the use of commercially available, mass-produced components for ROV Design
-3. xx
+3. Prioritize modularity, adaptability and a robustness over featurerich design 
 4. Bridge the Gap between Scientific and Citizen Scientist/Hobbyist community
 
 ## Concrete, Specific Outcomes of this Project
