@@ -12,11 +12,11 @@ Below you'll find some rudimentary design drafts for the proposed ROV. Since the
    2. Emergency Bouyant Release device: Developing a nuetral-bouyant design with a solution to change the bouyancy of the ROV in case of a power failure. I am assuming that the main propulsion assemby should be able to provide stability to the vehicle scenario.
 5. **Glass window: **I am working on some sort of 3D printed+metal bracket solution to add a glasss window in the Case itself to provide a quick view of the inside and give access to a camera to record photo/video. Alternatively, a seperate camera assembly can be designed to support the major action cams/webcams in the market right now, The latter offers a more reliable and a robust approach but messes big time with the dynamics of the vehicle.
 
-  It is recommended to have a ROV design that utilizes advance prototyping machines accesbile to hobbyist such as 3D printers/Laser Cut/CNC Routers but at the same time, absence of it should not thwart ROV build
+   It is recommended to have a ROV design that utilizes advance prototyping methods accesbile to hobbyist such as 3D printing/Laser Cuting/CNC Routers but at the same time, absence of it should not thwart ROV build.
 
 ![](/projectROV1.jpg)Figure 1: View of Primary Thruster Assemble, and placement of various ROV components
 
-![](/projectROV2.jpg)Figure 2: 
+![](/projectROV2.jpg)Figure 2:
 
 ![](/projectROV3.jpg)Fig 3:
 
