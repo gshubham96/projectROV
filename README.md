@@ -24,7 +24,7 @@ ProjectROV is an initiative to design an open source semi-professional grade ROV
 
 The Ideology behind this project is to have a vehicle that is freely and easily available so that anyone can make one and start exploring the oceans. Among the few ROVs that exist for the general public, only handful of them utilize open-source components and hence accessibility to the public remains low. I aim to design an ROV that would be completely open source and made from commercially available off-the-shelf components. This would allow anyone anywhere in the world with access to basic technical skills and tools to build an ROV for ocean exploration.
 
-[^1]: All information/text presented here is based on my opinion as on September 2017 and does not necessarily represent any factual information. If you find something to be incorrect or misleading, kindly drop an email @ shubhamuuv@gmail.com..
+[^1]: All information/text presented here is based on my opinion as on September 2017 and does not necessarily represent any factual information. If you find something to be incorrect or misleading, kindly drop an email @ shubhamuuv@gmail.com.
 
 [^2]: If you see a \_\_\_\_\_\_, it probably means that I was not able to think of a better word at the moment and hence will try to fill it up later.
 
