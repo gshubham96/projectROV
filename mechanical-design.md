@@ -1,4 +1,4 @@
 # Mechanical Design
 
-![](/projectROV1.jpg=200x200)![](/projectROV2.jpg)![](/projectROV3.jpg)
+![](/projectROV1.jpg)![](/projectROV2.jpg)![](/projectROV3.jpg)
 
