@@ -15,6 +15,7 @@
 * [High Level Architecture](high-level-architecture.md)
 * [Mechanical Design](mechanical-design.md)
 * [Hardware Design](hardware-design.md)
+  * [Tether](hardware-design/tether.md)
 * [Software Systems](software-systems.md)
 
 ## Project Management and Stuff
