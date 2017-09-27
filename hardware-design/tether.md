@@ -14,6 +14,10 @@ I am planning to solve this by designing adaptors that would be fixed along the 
 1. To distribute the weight, Pull/Push force on the tether among itself and the kevlar line
 2. To effictively provide a net boyant tether by having positive bouyancy. 
 
+There is still a high probability that a FO tether might fail due to plenty reasons such as bending radius of cable & technical know-how. We can always replace the FO cable with a normal Ethernet Cable but will need to add tether interface to boost the signal for 100+ meters. Another thing to consider is the Co-axial cable. It is relatively strong with larger range. 
+
+I will post an analysis of different types of tether solutions soon.
+
 ![](/assets/tether.png)
 
 Cost Analysis:
