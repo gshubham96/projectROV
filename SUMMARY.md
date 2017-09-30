@@ -17,6 +17,7 @@
 * [Hardware Design](hardware-design.md)
   * [Tether](hardware-design/tether.md)
 * [Software Systems](software-systems.md)
+* [Price Tracker](cost-analysis.md)
 
 ## Project Management and Stuff
 
