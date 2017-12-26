@@ -14,9 +14,9 @@ Below you'll find some rudimentary design drafts for the proposed ROV. Since the
 
    It is recommended to have a ROV design that utilizes advance prototyping methods accesbile to hobbyist such as 3D printing/Laser Cuting/CNC Routers but at the same time, absence of it should not thwart ROV build.
 
-![](/projectROV1.jpg)Figure 1: View of Primary Thruster Assemble, and placement of various ROV components
+![](/assets/OSUUV Isometric View.jpg)Figure 1: View of Primary Thruster Assemble, and placement of various ROV components
 
-![](/projectROV2.jpg)Figure 2:
+![](/assets/top.jpg)Figure 2: Top View
 
-![](/projectROV3.jpg)Fig 3:
+![](/assets/OSUUV draft 2.jpg)Fig 3: Isometric Front
 
