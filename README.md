@@ -1,8 +1,8 @@
-# OSUUV[^1]
+# OSUUV - Open Source Unmanned Underwater Vehicle[^1]
 
 ## Introduction
 
-ProjectROV is an initiative to design an open source semi-professional grade ROV that can be readily made under the price cap of INR 50,000 or USD 800. ProjectROV has the following design objectives:
+OSUUV is an initiative to design an open source semi-professional grade ROV that can be readily made under the price cap of INR 50,000 or USD 800. ProjectROV has the following design objectives:
 
 1. Implement and improve OS software systems when available, develop custom OS solutions where necessary
 2. Maximize the use of commercially available, mass-produced components for ROV Design
