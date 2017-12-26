@@ -16,13 +16,13 @@ I am planning to solve this by designing adaptors that would be fixed along the 
 
 There is still a high probability that an FO tether might fail due to plenty reasons such as bending radius of cable & technical know-how. We can always replace the FO cable with a normal Ethernet Cable but will need to add tether interface to boost the signal for 100+ meters. Another thing to consider is the Co-axial cable. It is relatively strong with a higher range.
 
-I will post an analysis of different types of tether solutions soon![](/assets/tether.png)
+I will post an analysis of different types of tether solutions soon![](/assets/tether.png)
 
 Cost Analysis:
 
 100m FO/Eth Cable = $55  
 RJ45 - FO Interface = $45\*2=$90  
-100m Kevlar Line = $50  
+100m Kevlar or S.Steel Wire = $50  
 3D Printing = $55  
 Total ~ $250  
 Budget Target = $200
