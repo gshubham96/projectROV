@@ -16,9 +16,9 @@ OSUUV is an initiative to design an open source semi-professional grade ROV that
    2. or extend software package to accommodate hardware solutions and provide custom payload integration capabilities
 2. To build ROV kits for use in education & research, photography, recreation, small-scale surveys and use in Boat & Yacht industry.
 3. To provide a digital platform for
-   1. interactive build guide for myROV platform
-   2. discussion of ideas related to and troubleshoot issues of the myROV platform
-   3. sharing community gathered data through myROV platform
+   1. interactive build guide for OSUUV platform
+   2. discussion of ideas related to and troubleshoot issues of the OSUUV platform
+   3. sharing community gathered data through OSUUV platform
 
 ## Project Ideology
 
