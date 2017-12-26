@@ -1,4 +1,4 @@
-# ProjectROV[^1]
+# OSUUV[^1]
 
 ## Introduction
 
