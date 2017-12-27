@@ -11,10 +11,10 @@ OSUUV is an initiative to design an open source semi-professional grade ROV that
 
 ## Concrete, Specific Outcomes of this Project
 
-1. To design and develop
-   1. An open-source freely available underwater platform accessible to the general public regardless of the geophysical location age, knowledge skill-set and \_\_\_\_\_\_\_[^2].
-   2. or extend software package to accommodate hardware solutions and provide custom payload integration capabilities
-2. To build ROV kits for use in education & research, photography, recreation, small-scale surveys and use in Boat & Yacht industry.
+1. 1.To design and develop
+   1. Modular, Adaptable 2-Thruster torpedo shaped design with custom payload support, vision support, and off-the-shelf design components
+   2. and extend existing software package to accommodate hardware solutions and provide custom payload integration capabilities
+2. To build ROV kits for use in education & research, photography, recreation, small-scale surveys and in Boat & Yacht industry
 3. To provide a digital platform for
    1. interactive build guide for OSUUV platform
    2. discussion of ideas related to and troubleshoot issues of the OSUUV platform
